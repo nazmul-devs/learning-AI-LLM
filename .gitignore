@@ -1,0 +1,10 @@
+# Ignore venv in any folder at any depth
+**/venv/
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
